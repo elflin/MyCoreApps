@@ -12,7 +12,7 @@ import SwiftData
 struct MyCoreAppsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }.modelContainer(for: Destination.self)
     }
 }
