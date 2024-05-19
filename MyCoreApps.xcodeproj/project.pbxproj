@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4032B00D2BF9D31E00B647C0 /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4032B00C2BF9D31E00B647C0 /* EditDestinationView.swift */; };
+		4032B0112BF9E7C100B647C0 /* Sight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4032B0102BF9E7C100B647C0 /* Sight.swift */; };
 		404401B12BE8CBD7005E1E9C /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404401B02BE8CBD7005E1E9C /* Destination.swift */; };
 		404401B32BE8D012005E1E9C /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404401B22BE8D012005E1E9C /* HomeView.swift */; };
 		40F37AB42BE8AFBB0086FC5C /* MyCoreAppsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F37AB32BE8AFBB0086FC5C /* MyCoreAppsApp.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		4032B00C2BF9D31E00B647C0 /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
+		4032B0102BF9E7C100B647C0 /* Sight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sight.swift; sourceTree = "<group>"; };
 		404401B02BE8CBD7005E1E9C /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		404401B22BE8D012005E1E9C /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		40F37AB02BE8AFBB0086FC5C /* MyCoreApps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyCoreApps.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,6 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				404401B02BE8CBD7005E1E9C /* Destination.swift */,
+				4032B0102BF9E7C100B647C0 /* Sight.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				40F37AB62BE8AFBB0086FC5C /* ContentView.swift in Sources */,
 				404401B32BE8D012005E1E9C /* HomeView.swift in Sources */,
 				40F37AB42BE8AFBB0086FC5C /* MyCoreAppsApp.swift in Sources */,
+				4032B0112BF9E7C100B647C0 /* Sight.swift in Sources */,
 				404401B12BE8CBD7005E1E9C /* Destination.swift in Sources */,
 				4032B00D2BF9D31E00B647C0 /* EditDestinationView.swift in Sources */,
 			);
